@@ -1,5 +1,5 @@
 /**
- * Name: You Know What to D
+ * Name: You Know What to Test
  */
 package org.howard.edu.lsp.assignment1;
 
@@ -8,3 +8,4 @@ public class HelloWorld {
         System.out.println("Hello World!!");
     }
 }
+
